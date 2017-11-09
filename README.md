@@ -1,2 +1,2 @@
 # hello-world
-project creating ggit hhub
+this is project creating git hub
